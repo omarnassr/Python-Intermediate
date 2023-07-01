@@ -1,0 +1,14 @@
+1Tim,22
+2Tonya,45
+3Mary,12
+4Ann,32
+5Beth,20
+6Sam,5
+7Manny,76
+8Kenton,15
+9Kenny,27
+_1Dixie,46
+_2Mallory,32
+_3Julian,4
+_4Edward,71
+_5Rose,65
